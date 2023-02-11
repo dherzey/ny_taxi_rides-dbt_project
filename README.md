@@ -1,1 +1,1 @@
-# ny_taxi_rides-dbt_project
+# Repository for the dbt starter project
